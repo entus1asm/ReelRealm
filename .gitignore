@@ -26,6 +26,10 @@ composer.phar
 # Mac DS_Store Files
 .DS_Store
 
+.env
+
+.vercel
+
 # phpunit itself is not needed
 phpunit.phar
 # local phpunit config
